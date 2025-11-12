@@ -8,7 +8,12 @@ It contains functions to analyze cophylogenetic systems, in particular to measur
 It also allows to generate “null expectations” on the expected patterns based on the species' biogeography, i.e. whether the observed phylogenetic patterns can be explained by biogeographic conservatism alone.
 
 
-Example of R script: 
+*Authors:* Benoît Perez-Lamarque (benoit.perez.lamarque@gmail.com), Adrien Sagnard, Yanis Ibos. 
+
+*Citation:* Benoît Perez-Lamarque, Hélène Morlon, **Distinguishing Cophylogenetic Signal from Phylogenetic Congruence Clarifies the Interplay Between Evolutionary History and Species Interactions**, Systematic Biology, Volume 73, Issue 3, May 2024, Pages 613–622, https://doi.org/10.1093/sysbio/syae013
+
+# Example of R script: 
+
 
 ```r
 
