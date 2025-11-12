@@ -1,7 +1,7 @@
 # Cophylo
 
 
-This repository is still under construction.
+**Warning: This repository is still under construction.**
 
 It contains functions to analyze cophylogenetic systems, in particular to measure cophylogenetic signal, phylogenetic congruence, phylogenetic signal, or phylosymbiosis. 
 
